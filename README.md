@@ -5,9 +5,9 @@ by James Kwon Lee
 Cinemize is an aspect ratio filter and automatic color corrector that makes regular images appear more cinematic. 
 
 To get started, install pillow:
-"""
+```
 pip install pillow
-"""
+```
 
 Also, make sure to include the simpleimage.py file in your project folder. 
 You can apply filters to any image of your choice, just place the image in the project folder. 
